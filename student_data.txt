@@ -1,0 +1,23 @@
+Student: Faizan Ahmad
+Course: DLD | Credits: 2 | Marks: 78 | Grade: B+
+Course: DLD LAB | Credits: 1 | Marks: 87 | Grade: A
+Course: OOP | Credits: 3 | Marks: 95 | Grade: A
+Course: OOP LAB | Credits: 1 | Marks: 97 | Grade: A
+Course: Probability and Statistics | Credits: 3 | Marks: 52 | Grade: C-
+Course: Ideology and Constitution of Pakistan | Credits: 3 | Marks: 99 | Grade: A
+CGPA: 3.36
+----------------------
+Student: Faizan
+Course: OOP | Credits: 95 | Marks: 100 | Grade: A
+Course: OOP LAB | Credits: 100 | Marks: 100 | Grade: A
+CGPA: 4.00
+----------------------
+Student: Faizan Ahmad Sadiq
+Course: DLD | Credits: 2 | Marks: 86 | Grade: A
+Course: DLD Lab | Credits: 1 | Marks: 90 | Grade: A
+Course: OOP | Credits: 3 | Marks: 84 | Grade: A-
+Course: OOP Lab | Credits: 1 | Marks: 98 | Grade: A
+Course: Probability and Statistics | Credits: 3 | Marks: 85 | Grade: A
+Course: Ideology and Constitution of Pakistan | Credits: 2 | Marks: 96 | Grade: A
+CGPA: 3.92
+----------------------
